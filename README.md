@@ -16,7 +16,7 @@ I'm a Cybersecurity student and IAM enthusiast, passionate about building and se
 - 🌱 I’m currently learning more about **Identity and Access Management (IAM)** and **Cloud Security**.
 - 👯 I’m looking to collaborate on **open-source security tools and homelab projects**.
 - 💬 Ask me about **Proxmox, Tailscale, WireGuard, ClamAV, and homelab security**.
-- 📫 How to reach me: **[mirisancatalin@protonmail.com](mailto:mirisancatalin@protonmail.com)**
+- 📫 How to reach me: **[catalin.mirisan@stud.ubbcluj.ro](mailto:catalin.mirisan@stud.ubbcluj.ro)**
 
 ---
 
