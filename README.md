@@ -1,7 +1,7 @@
 ### Hi there, I'm Catalin Mirisan 👋
 
 <p align="center">
-  <a href="https://github.com/MirisanCatalin">
+  <a href="[https://github.com/MirisanCatalin](https://mirisancatalin.github.io/)">
     <img src="https://komarev.com/ghpvc/?username=MirisanCatalin&label=Profile%20views&color=0e75b6&style=flat" alt="MirisanCatalin" />
   </a>
 </p>
