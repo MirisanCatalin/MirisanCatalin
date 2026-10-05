@@ -1,16 +1,26 @@
 ### Hi there, I'm Catalin Mirisan 👋
 
 <p align="center">
-  <a href="[https://github.com/MirisanCatalin](https://mirisancatalin.github.io/)">
-    <img src="https://komarev.com/ghpvc/?username=MirisanCatalin&label=Profile%20views&color=0e75b6&style=flat" alt="MirisanCatalin" />
+  <a href="https://mirisancatalin.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-mirisancatalin.github.io-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="mailto:catalin.mirisan@stud.ubbcluj.ro">
+    <img src="https://img.shields.io/badge/Email-catalin.mirisan@stud.ubbcluj.ro-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/catalin-mirisan-617509209/">
+    <img src="https://img.shields.io/badge/LinkedIn-catalin--mirisan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MirisanCatalin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a Cybersecurity student and IAM enthusiast, passionate about building and securing infrastructure. I learn by doing—whether it's breaking things in a lab, hardening a homelab, or automating security workflows.
+I'm a Cybersecurity student at Babeș-Bolyai University (Romanian Informatics program, final year), passionate about building and securing infrastructure. I learn by doing — whether it's breaking things in a lab, hardening a homelab, or writing crypto code for my bachelor's thesis.
 
 - 🎓 Currently writing my **Bachelor's Thesis**: *"Synchronized and Secure Storage System with Data Deduplication"* — combining applied cryptography, secure storage, and distributed sync.
 - 🔭 I'm currently working on expanding my **Active Directory Attack Lab**.
@@ -112,6 +122,9 @@ A synchronized and secure storage system with data deduplication, exploring appl
 ### 🤝 Connect with Me
 
 <p align="left">
+  <a href="https://mirisancatalin.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/catalin-mirisan-617509209/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
